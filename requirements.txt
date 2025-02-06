@@ -6,3 +6,4 @@ speechrecognition
 deep-translator 
 googletrans 
 langdetect 
+pyAudio
