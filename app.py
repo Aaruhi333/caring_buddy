@@ -9,7 +9,7 @@ import time
 
 # Load environment variables
 load_dotenv()
-COHERE_API_KEY = os.getenv("6Xlg2kt7Hj40n5HvRvZt2DrQrDmvUp0SDdaVGQwc")
+COHERE_API_KEY = os.getenv("COHERE_API_KEY")
 
 # Initialize Cohere client
 co = cohere.Client(COHERE_API_KEY)
