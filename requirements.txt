@@ -1,9 +1,7 @@
 cohere
 streamlit
+gtts
+speechrecognition
+deep-translator
 python-dotenv
-gtts 
-speechrecognition 
-deep-translator 
-googletrans 
-langdetect 
-pyaudio
+pydub
